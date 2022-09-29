@@ -63,7 +63,7 @@ const resolver = {
 const strings = [
   'One minecraft world',
   'Hundreds of players',
-  'All equipped with the ability to generate anything they desire',
+  'All equipped with Stable Diffusion',
   'diffusioncraft.com'
 ];
 

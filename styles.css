@@ -14,8 +14,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
-  padding: 5rem;
+  height: 90%;
 }
 
 .heading {
@@ -23,4 +22,19 @@ body {
   font-size: 5rem;
   font-weight: 300;
   text-transform: uppercase;
+}
+.bottom-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10%;
+}
+
+.bottom {
+  color: #eee;
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  padding-left: 10%;
+  padding-right: 10%;
 }
