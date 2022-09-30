@@ -27,7 +27,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 10%;
+  height: 7%;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3%;
 }
 
 .bottom {
@@ -37,4 +43,20 @@ body {
   text-transform: uppercase;
   padding-left: 10%;
   padding-right: 10%;
+}
+
+.footertext {
+  color: #eee;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+a {
+  color: hotpink;
+}
+
+.heading2 {
+  color: #eee;
+  font-size: 2rem;
+  font-weight: 300;
 }
