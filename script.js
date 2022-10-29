@@ -61,10 +61,10 @@ const resolver = {
   } 
 }
 const strings = [
-  'One minecraft world',
-  'Hundreds of players',
-  'All equipped with Stable Diffusion',
-  'diffusioncraft.com'
+  'One minecraft server',
+  'Equipped with Stable Diffusion',
+  'mc.diffusioncraft.com',
+  'IP: 174.129.114.239'
 ];
 
 let counter = 0;
